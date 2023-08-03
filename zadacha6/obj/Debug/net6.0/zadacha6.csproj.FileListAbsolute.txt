@@ -1,0 +1,15 @@
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.csproj.AssemblyReference.cache
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.AssemblyInfoInputs.cache
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.AssemblyInfo.cs
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/ programms/hw1/zadacha6/bin/Debug/net6.0/zadacha6
+/Users/User/Desktop/ programms/hw1/zadacha6/bin/Debug/net6.0/zadacha6.deps.json
+/Users/User/Desktop/ programms/hw1/zadacha6/bin/Debug/net6.0/zadacha6.runtimeconfig.json
+/Users/User/Desktop/ programms/hw1/zadacha6/bin/Debug/net6.0/zadacha6.dll
+/Users/User/Desktop/ programms/hw1/zadacha6/bin/Debug/net6.0/zadacha6.pdb
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.dll
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/refint/zadacha6.dll
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.pdb
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/zadacha6.genruntimeconfig.cache
+/Users/User/Desktop/ programms/hw1/zadacha6/obj/Debug/net6.0/ref/zadacha6.dll
