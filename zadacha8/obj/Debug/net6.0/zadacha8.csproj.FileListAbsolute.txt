@@ -1,0 +1,15 @@
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.csproj.AssemblyReference.cache
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.AssemblyInfoInputs.cache
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.AssemblyInfo.cs
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.csproj.CoreCompileInputs.cache
+/Users/User/Desktop/ programms/hw1/zadacha8/bin/Debug/net6.0/zadacha8
+/Users/User/Desktop/ programms/hw1/zadacha8/bin/Debug/net6.0/zadacha8.deps.json
+/Users/User/Desktop/ programms/hw1/zadacha8/bin/Debug/net6.0/zadacha8.runtimeconfig.json
+/Users/User/Desktop/ programms/hw1/zadacha8/bin/Debug/net6.0/zadacha8.dll
+/Users/User/Desktop/ programms/hw1/zadacha8/bin/Debug/net6.0/zadacha8.pdb
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.dll
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/refint/zadacha8.dll
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.pdb
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/zadacha8.genruntimeconfig.cache
+/Users/User/Desktop/ programms/hw1/zadacha8/obj/Debug/net6.0/ref/zadacha8.dll
